@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { licenseSN, licenseKey} from './license-key';
 
 @Component({
   selector: 'app-root',
